@@ -4,4 +4,8 @@ Fill the starlit sky
 =======
 The ship glides gently on the waves
 As day turns into night
+<<<<<<< HEAD
 >>>>>>> feature
+=======
+>>>>>>> dc23112 (add arrows.txt)
+>>>>>>> eb4ea46 (rebase arrows.txt)
